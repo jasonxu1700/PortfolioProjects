@@ -1,4 +1,4 @@
---1 Standardize Data Format
+--1 Standardize Data Format 
 Select SaleDate, CONVERT(Date,SaleDate)
 From PortfolioProject.dbo.NashvilleHousing
 
