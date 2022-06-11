@@ -1,4 +1,4 @@
-Select *
+Select * 
 From PortfolioProject..CovidDeaths
 order by 3,4
 
